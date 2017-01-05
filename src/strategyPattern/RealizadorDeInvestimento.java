@@ -5,5 +5,5 @@ package strategyPattern;
  */
 public class RealizadorDeInvestimento {
 
-    publi
+   // publi
 }
