@@ -18,6 +18,9 @@ public class TestaNotaFiscal {
                 .withDataAtual()
                 .withItem(new ItemDaNota("item 1", 20))
                 .withItem(new ItemDaNota("item 2", 30))
+                .adicionaAcao(new EnviaPorSMS())
+                .adicionaAcao(new ImprimeNota())
+                .adicionaAcao(new Multiplicador(2.5))
                 .build();
         System.out.println(notaFiscal);
 
