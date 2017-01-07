@@ -2,71 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67472251-25a1-418a-8052-e5cca292b036" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/CalculadorDeInvestimentos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/CalculadoraDeImpostos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Conta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Decorator_Design_Pattern_Description.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Filtro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/FiltroAbertasNoMes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/FiltroSaldoMaiorQue500Mil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/FiltroSaldoMenorQue100.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/ICCC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/ICMS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/ICPP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/IHIT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/IKCV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/ISS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Imposto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/ImpostoMuitoAlto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Investimento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/InvestimentoArrojado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/InvestimentoConservador.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/InvestimentoModerado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/Orcamento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/RealizadorDeInvestimento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/TemplateImpostoVariavel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/TestaFiltroConta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/TestaTemplateMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Decorater/TestaValorDoImposto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Aprovado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/CalculadorDeInvestimentos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/CalculadoraDeImpostos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Conta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Decorator_Design_Pattern_Description.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/EmAprovacao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/EstadoDaConta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/EstadoDeUmOrcamento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/EstadoNegativo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/EstadoPositivo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Filtro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/FiltroAbertasNoMes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/FiltroSaldoMaiorQue500Mil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/FiltroSaldoMenorQue100.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Finalizado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/ICCC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/ICMS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/ICPP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/IHIT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/IKCV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/ISS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Imposto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/ImpostoMuitoAlto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Investimento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/InvestimentoArrojado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/InvestimentoConservador.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/InvestimentoModerado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Orcamento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/RealizadorDeInvestimento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/Reprovado.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/TemplateImpostoVariavel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/TestaEstadoDaConta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/TestaFiltroConta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/TestaTemplateMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/TestaValorDoImposto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/State/TesteDeDescontoExtra.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPattern_I/TemplateMethod/TemplateImpostoVariavel.class" afterPath="$PROJECT_DIR$/out/production/DesignPattern_I/TemplateMethod/TemplateImpostoVariavel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Builder/ItemDaNota.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Builder/NotaFiscal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Builder/NotaFiscalBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Builder/TestaNotaFiscal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesignPattern_I.iws" />
@@ -89,93 +28,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EstadoDaConta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/EstadoDaConta.java">
+      <file leaf-file-name="NotaFiscal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Builder/NotaFiscal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="247">
+              <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1251#1252#0" expanded="true" />
+                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#1316#1317#0" expanded="true" />
+                <element signature="e#1343#1344#0" expanded="true" />
+                <element signature="e#1380#1381#0" expanded="true" />
+                <element signature="e#1413#1414#0" expanded="true" />
+                <element signature="e#1448#1449#0" expanded="true" />
+                <element signature="e#1479#1480#0" expanded="true" />
+                <element signature="e#1521#1522#0" expanded="true" />
+                <element signature="e#1557#1558#0" expanded="true" />
+                <element signature="e#1595#1596#0" expanded="true" />
+                <element signature="e#1629#1630#0" expanded="true" />
+                <element signature="e#1677#1678#0" expanded="true" />
+                <element signature="e#1711#1712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestaNotaFiscal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Builder/TestaNotaFiscal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EstadoPositivo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/EstadoPositivo.java">
+      <file leaf-file-name="ItemDaNota.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Builder/ItemDaNota.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="5" selection-start-line="24" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="292">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
               <folding>
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EstadoNegativo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/EstadoNegativo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-              <folding>
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestaEstadoDaConta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/TestaEstadoDaConta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conta.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/State/Conta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-              <folding>
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1084#1085#0" expanded="true" />
-                <element signature="e#1141#1142#0" expanded="true" />
-                <element signature="e#1188#1189#0" expanded="true" />
-                <element signature="e#1230#1231#0" expanded="true" />
-                <element signature="e#1295#1296#0" expanded="true" />
-                <element signature="e#1345#1346#0" expanded="true" />
-                <element signature="e#1382#1383#0" expanded="true" />
-                <element signature="e#1434#1435#0" expanded="true" />
-                <element signature="e#1852#1853#0" expanded="true" />
-                <element signature="e#1929#1930#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Orcamento.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/Orcamento.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-              <folding>
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
                 <element signature="e#986#987#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotaFiscalBuilder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Builder/NotaFiscalBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -203,11 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/Resposta.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/FormatoXml.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/Conta.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/TesteRequisicaoComConstrutorInterno.java" />
-        <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/RespostaXml.java" />
         <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/RespostaPorCento.java" />
         <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/RespostaCsv.java" />
         <option value="$PROJECT_DIR$/src/ChainOfResponsability/exercicio05/Requisicao.java" />
@@ -254,6 +165,11 @@
         <option value="$PROJECT_DIR$/src/State/EstadoNegativo.java" />
         <option value="$PROJECT_DIR$/src/State/Conta.java" />
         <option value="$PROJECT_DIR$/src/State/TestaEstadoDaConta.java" />
+        <option value="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar!/sun/util/locale/LanguageTag.class" />
+        <option value="$PROJECT_DIR$/src/Builder/NotaFiscal.java" />
+        <option value="$PROJECT_DIR$/src/Builder/TestaNotaFiscal.java" />
+        <option value="$PROJECT_DIR$/src/Builder/ItemDaNota.java" />
+        <option value="$PROJECT_DIR$/src/Builder/NotaFiscalBuilder.java" />
       </list>
     </option>
   </component>
@@ -339,7 +255,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="State" />
+              <option name="myItemId" value="Builder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,27 +289,7 @@
       <recent name="strategyPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaEstadoDaConta">
-    <configuration default="false" name="TestaTemplateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="TemplateMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="TemplateMethod.TestaTemplateMethod" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPattern_I" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestaNotaFiscal">
     <configuration default="false" name="TestaTemplateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -462,6 +358,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="State.TestaEstadoDaConta" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPattern_I" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestaNotaFiscal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Builder.TestaNotaFiscal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -899,17 +815,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestaTemplateMethod" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestaTemplateMethod" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestaFiltroConta" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TesteDeDescontoExtra" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestaEstadoDaConta" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestaFiltroConta" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TesteDeDescontoExtra" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestaEstadoDaConta" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestaNotaFiscal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestaEstadoDaConta" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TesteDeDescontoExtra" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestaFiltroConta" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestaTemplateMethod" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestaNotaFiscal" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestaEstadoDaConta" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TesteDeDescontoExtra" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestaFiltroConta" />
         <item index="4" class="java.lang.String" itemvalue="Application.TestaTemplateMethod" />
       </list>
     </recent_temporary>
@@ -927,12 +843,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483550366118</updated>
-      <workItem from="1483550368446" duration="46418000" />
+      <workItem from="1483550368446" duration="51476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46418000" />
+    <option name="totallyTimeSpent" value="51476000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -953,7 +869,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5028612" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3097015" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1034,68 +950,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsability/CalculadorDeDescontos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/CalculadorDeDescontos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/ICPP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/IKCV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="1" selection-start-line="5" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategyPattern/CalculadoraDeImpostos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/IHIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1599#1600#0" expanded="true" />
-            <element signature="e#1649#1650#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TemplateMethod/TestaTemplateMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1531,6 +1385,83 @@
             <element signature="e#1434#1435#0" expanded="true" />
             <element signature="e#1852#1853#0" expanded="true" />
             <element signature="e#1929#1930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar!/sun/util/locale/LanguageTag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6480">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="88" column="25" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Builder/NotaFiscal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1521#1522#0" expanded="true" />
+            <element signature="e#1557#1558#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1677#1678#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Builder/TestaNotaFiscal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Builder/ItemDaNota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Builder/NotaFiscalBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
